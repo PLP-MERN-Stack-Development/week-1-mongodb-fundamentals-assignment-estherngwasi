@@ -97,10 +97,9 @@ git add .
 git commit -m "Final submission with README and screenshot"
 git push origin main
 
-#### 📸 Screenshots
-
-##### Screenshot 1: Books Inserted in MongoDB Atlas
+### 📸 Screenshots
+Screenshot 1: Books Inserted in MongoDB Atlas
 ![Books Inserted](./screenshot2.PNG)
 
-##### Screenshot 2: Collection View in Atlas
+Screenshot 2: Collection View in Atlas
 ![Collection View](./screenshot1.PNG)
